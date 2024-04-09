@@ -5,7 +5,7 @@ spring:
 langchain4j:
 open-ai:
   chat-model:
-    api-key: [your-api-key]
+    api-key: [YOUR_OPENAI_KEY]
     model-name: gpt-3.5-turbo
     temperature: 0.0
     timeout: PT60S
